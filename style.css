@@ -1,0 +1,24 @@
+* {
+  border: 0;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.container{
+  height: 600px;
+  width: 600px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+
+}
+
+.quadrato{
+  height: 100px;
+  width: 100px;
+  line-height: 100px;
+  text-align: center;
+  border: 1px solid black;
+}
